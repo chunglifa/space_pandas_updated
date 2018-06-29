@@ -1,0 +1,30 @@
+.wrapper{
+    height: auto;
+    width: 100%;
+    background-color: white;
+    margin-top: 235%;
+    height: 30%;
+    width: 100%;
+  }
+  
+  .formwrapper form input{
+    width: 300px;
+    height: 30px;
+    margin: 5px;
+    background-color: lightcyan;
+    border-radius: 5px;
+    display: inline;
+  }
+  
+  form input{
+    display: inline;
+    align-content: center;
+  }
+  
+  form textarea{
+      margin-top: 10px;
+      width: 80%;
+      display: block;
+      height: 30%;
+      align-content: center;
+  }

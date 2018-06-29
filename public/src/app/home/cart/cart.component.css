@@ -1,0 +1,41 @@
+.wrapper {
+  width: 99%;
+  height: 100%;
+  background-color: rgba(185, 210, 223, 0.214);
+  vertical-align: top;
+  border-radius: 5px;
+}
+
+.helperPanda {
+  background-image: url(helpful_panda.png);
+  height: 30%;
+  width: 100%;
+  margin-top: 235%;
+  align-content: center;
+}
+h4 {
+text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+ul {
+  border-bottom: 1px solid black;
+}
+
+.animate-show-hide.ng-hide {
+  opacity: 0;
+}
+
+.animate-show-hide.ng-hide-add,
+.animate-show-hide.ng-hide-remove {
+  transition: all linear 0.5s;
+}
+
+.check-element {
+  border: 1px solid black;
+  opacity: 1;
+  padding: 10px;
+}
+
